@@ -6,4 +6,4 @@ The KNN algorithm is a simple, easy-to-implement supervised machine learning alg
 
 To train and test the algorithim I'll be using a dataset that contains information on various cars. For each car I have information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more. You can read more about the data set [here](https://archive.ics.uci.edu/ml/datasets/automobile) and can download it directly [here](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data).
 
-The notebook is based on a guided project from Dataquest, an online Data Science bootcamp. The learning goal of the project was to test understanding of probability, conditional probability and bayes theorem
+The notebook is based on a guided project from Dataquest, an online data science bootcamp. The learning goal of the project was to test understanding of machine learning workflows, and feature and hyperparemter tuning. 
